@@ -1,0 +1,26 @@
+{
+  "name": "nexthooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "export": "next export",
+    "deploy": "cd out && now --public",
+    "now-build": "next build && next export  -o dist",
+    "start": "next start -p $PORT",
+    "export": "next export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "express": "^4.16.4",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
