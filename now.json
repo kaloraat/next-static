@@ -1,9 +1,6 @@
 {
     "version": 2,
-
     "name": "nexthooks",
-
-    "builds": [{ "src": "package.json", "use": "@now/next" }],
-
-    "routes": [{ "src": "/blog/(.*)", "dest": "/post?id=$1" }]
+    "builds": [{ "src": "package.json", "use": "@now/static-build" }],
+    "routes": [{ "src": "/blog/(.+)", "dest": "/blog?id=$1" }]
 }

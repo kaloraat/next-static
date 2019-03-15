@@ -10964,7 +10964,7 @@ var Error = function Error(_ref) {
 
 /***/ }),
 
-/***/ 3:
+/***/ 1:
 /*!********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F_error&absolutePagePath=%2FUsers%2Fkaloraat%2FDesktop%2Fhooks%2Fnexthooks%2Fpages%2F_error.js ***!
   \********************************************************************************************************************************************/
@@ -10987,5 +10987,5 @@ module.exports = dll_3681e7fd756237ce51c6;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]));;
+},[[1,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=_error.js.map

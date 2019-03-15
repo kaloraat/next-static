@@ -9,7 +9,9 @@ import Layout from "../components/Layout";
 import Error from "./_error";
 
 const News = ({ news, page }) => {
-    const [currentPage, setCurrentPage] = useState(1);
+    // const [currentPage, setCurrentPage] = useState(1);
+    const currentPage = useState(1);
+    const setCurrentPage = useState();
     const [values, setValues] = useState({
         text: "react",
         coolmsg: ""

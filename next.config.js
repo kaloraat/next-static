@@ -9,7 +9,9 @@ module.exports = withCSS();
 module.exports = {
     exportPathMap: function() {
         return {
-            "/": { page: "/" }
+            "/": { page: "/" },
+            "/blogs": { page: "/blogs" },
+            "/blog": { page: "/blog" }
         };
     }
 };

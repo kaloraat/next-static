@@ -12339,19 +12339,17 @@ __webpack_require__.r(__webpack_exports__);
 var News = function News(_ref) {
   var news = _ref.news,
       page = _ref.page;
+  // const [currentPage, setCurrentPage] = useState(1);
+  var currentPage = Object(react__WEBPACK_IMPORTED_MODULE_5__["useState"])(1);
+  var setCurrentPage = Object(react__WEBPACK_IMPORTED_MODULE_5__["useState"])();
 
-  var _useState = Object(react__WEBPACK_IMPORTED_MODULE_5__["useState"])(1),
-      _useState2 = Object(_babel_runtime_corejs2_helpers_esm_slicedToArray__WEBPACK_IMPORTED_MODULE_4__["default"])(_useState, 2),
-      currentPage = _useState2[0],
-      setCurrentPage = _useState2[1];
-
-  var _useState3 = Object(react__WEBPACK_IMPORTED_MODULE_5__["useState"])({
+  var _useState = Object(react__WEBPACK_IMPORTED_MODULE_5__["useState"])({
     text: "react",
     coolmsg: ""
   }),
-      _useState4 = Object(_babel_runtime_corejs2_helpers_esm_slicedToArray__WEBPACK_IMPORTED_MODULE_4__["default"])(_useState3, 2),
-      values = _useState4[0],
-      setValues = _useState4[1];
+      _useState2 = Object(_babel_runtime_corejs2_helpers_esm_slicedToArray__WEBPACK_IMPORTED_MODULE_4__["default"])(_useState, 2),
+      values = _useState2[0],
+      setValues = _useState2[1];
 
   var text = values.text,
       coolmsg = values.coolmsg; // const [url, setUrl] = useState(
@@ -12492,7 +12490,7 @@ function () {
 
 /***/ }),
 
-/***/ 4:
+/***/ 2:
 /*!****************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fnews&absolutePagePath=%2FUsers%2Fkaloraat%2FDesktop%2Fhooks%2Fnexthooks%2Fpages%2Fnews.js ***!
   \****************************************************************************************************************************************/
@@ -12515,5 +12513,5 @@ module.exports = dll_3681e7fd756237ce51c6;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]));;
+},[[2,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=news.js.map

@@ -4,42 +4,42 @@
     "/_error": [
       "static/runtime/webpack-f0c6edbea5b547edc23f.js",
       "static/chunks/commons.78a4c34c998187bac702.js",
-      "static/runtime/main-c98415a5aea6e3a4ea1b.js"
+      "static/runtime/main-f7be30233dc3b777dfa9.js"
     ],
     "/about": [
       "static/runtime/webpack-f0c6edbea5b547edc23f.js",
       "static/chunks/commons.78a4c34c998187bac702.js",
-      "static/runtime/main-c98415a5aea6e3a4ea1b.js"
+      "static/runtime/main-f7be30233dc3b777dfa9.js"
     ],
     "/blog": [
       "static/runtime/webpack-f0c6edbea5b547edc23f.js",
       "static/chunks/commons.78a4c34c998187bac702.js",
-      "static/runtime/main-c98415a5aea6e3a4ea1b.js"
+      "static/runtime/main-f7be30233dc3b777dfa9.js"
     ],
     "/blogs": [
       "static/runtime/webpack-f0c6edbea5b547edc23f.js",
       "static/chunks/commons.78a4c34c998187bac702.js",
-      "static/runtime/main-c98415a5aea6e3a4ea1b.js"
+      "static/runtime/main-f7be30233dc3b777dfa9.js"
     ],
     "/index": [
       "static/runtime/webpack-f0c6edbea5b547edc23f.js",
       "static/chunks/commons.78a4c34c998187bac702.js",
-      "static/runtime/main-c98415a5aea6e3a4ea1b.js"
+      "static/runtime/main-f7be30233dc3b777dfa9.js"
     ],
     "/news": [
       "static/runtime/webpack-f0c6edbea5b547edc23f.js",
       "static/chunks/commons.78a4c34c998187bac702.js",
-      "static/runtime/main-c98415a5aea6e3a4ea1b.js"
+      "static/runtime/main-f7be30233dc3b777dfa9.js"
     ],
     "/_app": [
       "static/runtime/webpack-f0c6edbea5b547edc23f.js",
       "static/chunks/commons.78a4c34c998187bac702.js",
-      "static/runtime/main-c98415a5aea6e3a4ea1b.js"
+      "static/runtime/main-f7be30233dc3b777dfa9.js"
     ],
     "/": [
       "static/runtime/webpack-f0c6edbea5b547edc23f.js",
       "static/chunks/commons.78a4c34c998187bac702.js",
-      "static/runtime/main-c98415a5aea6e3a4ea1b.js"
+      "static/runtime/main-f7be30233dc3b777dfa9.js"
     ]
   }
 }
